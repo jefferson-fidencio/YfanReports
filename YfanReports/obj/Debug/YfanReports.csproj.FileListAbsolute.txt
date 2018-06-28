@@ -1,0 +1,9 @@
+C:\Projetos Correntes\YFAN\YfanReports\YfanReports\bin\Debug\YfanReports.exe.config
+C:\Projetos Correntes\YFAN\YfanReports\YfanReports\bin\Debug\YfanReports.exe
+C:\Projetos Correntes\YFAN\YfanReports\YfanReports\bin\Debug\YfanReports.pdb
+C:\Projetos Correntes\YFAN\YfanReports\YfanReports\bin\Debug\EPPlus.dll
+C:\Projetos Correntes\YFAN\YfanReports\YfanReports\bin\Debug\EPPlus.xml
+C:\Projetos Correntes\YFAN\YfanReports\YfanReports\obj\Debug\YfanReports.exe
+C:\Projetos Correntes\YFAN\YfanReports\YfanReports\obj\Debug\YfanReports.pdb
+D:\Nuvens\GitHub\YfanReports\YfanReports\obj\Debug\YfanReports.csprojAssemblyReference.cache
+D:\Nuvens\GitHub\YfanReports\YfanReports\obj\Debug\YfanReports.csproj.CoreCompileInputs.cache
